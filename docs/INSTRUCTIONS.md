@@ -5,8 +5,8 @@
 
 ## Context
 
-Deze deeltaak hoort bij sprint 4: Look and feel. 
-Dit is een deeltaak die je [individueel] uitvoert.
+Deze deeltaak hoort bij sprint 4 Look and feel. 
+Dit is een deeltaak die je individueel uitvoert.
 
 In de workshop [[Schets je ontwikkeling 2](link)] wordt behandeld ... 
 
@@ -24,8 +24,7 @@ Je leert hoe je ...
 
 *Hoe pak je dit aan, in welke fases van de DLC*
 
-Deze opdracht gaat over deze fases van de DLC: [analyseren](#analyseren), [ontwerpen](#ontwerpen), [bouwen](#bouwen), [integreren](#integreren) en [testen](#testen)
-
+Deze opdracht gaat over deze fases van de DLC: [analyseren](#analyseren), [ontwerpen](#ontwerpen)
 ### Analyseren
 Uitleg..
 
@@ -66,38 +65,13 @@ Uitleg..
 - [bron]
 - [bron]
 
-### Integreren
-Uitleg..
 
-#### Aanpak
-
-1. ...
-2. ...
-
-#### Materiaal 
-
-- [bron]
-- [bron]
-- 
-### Testen
-Uitleg..
-
-#### Aanpak
-
-1. ...
-2. ...
-
-#### Materiaal 
-
-- [bron]
-- [bron]
 
 ## Criteria
 
-Focus sprint # - De focus van deze sprint ligt op ...
 
 Deze deeltaak hoort bij het gedragscriterium:  
-...
+Lerend vermogen: Toont beginnend inzicht in eigen capaciteiten en beperkingen en kan deze benoemen
 
 Deze opdracht is done als:
 
