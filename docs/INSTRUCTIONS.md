@@ -79,7 +79,7 @@ Je gaat nu van een schematische vorm naar een metafoor. Bekijk eens deze metafoo
 ![Reizen](https://user-images.githubusercontent.com/55133339/200644427-aa4e9afe-7d50-4d25-b19b-d960791d0201.jpg)
 ![Ballon-ruimtevaart](https://user-images.githubusercontent.com/55133339/200644436-c1af45a0-a2d2-439e-990b-13c2186c2940.jpg)
 ![Sport](https://user-images.githubusercontent.com/55133339/200644442-83c4311d-fd56-44d5-b2cb-7eea89ab311a.jpg)
-
+![Eten+koken](https://user-images.githubusercontent.com/55133339/200650123-ce8e0927-831f-4bef-a00b-92605576c556.jpg)
 
 
 Bedenk dat je praatplaat geen vastgelegd plan is waar je je aan moet houden, het is een momentopname en zal gedurende het jaar steeds veranderen maar kan je helpen bij het richting geven en keuzes maken!
