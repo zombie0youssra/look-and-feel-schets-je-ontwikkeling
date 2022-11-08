@@ -88,13 +88,13 @@ Bedenk dat je praatplaat geen vastgelegd plan is waar je je aan moet houden, het
 
 Als je een aantal idee-schetsen hebt gemaakt, kies je er een uit -dit kan je eventueel ook in overleg met een klasgenoot doen- en werk je deze schets verder uit tot een tekening waarin je het volgende toepast:
 
--Een titel
+- Een titel
 
--Visuele hierarchie
+- Visuele hierarchie
 
--Kleur
+- Kleur
 
--Hierarchie in typografie
+- Hierarchie in typografie
 
 
 
