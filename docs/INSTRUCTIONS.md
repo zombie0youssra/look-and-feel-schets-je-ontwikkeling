@@ -15,16 +15,16 @@ In de workshop [[Schets je ontwikkeling 2](link)] wordt behandeld ...
 
 ## Doel van deze opdracht
 
-Je leert hoe je ... 
+Je reflecteert op de afgelopen periode en brengt in kaart wat er goed gaat en wat er beter kan.
+Je maakt een tekening (praatplaat) in de vorm van een metafoor die laat zien hoe je zelf naar deze ontwikkeling kijkt.
+Je gebruikt de praatplaat als uitgangspunt voor een individueel gesprek met jouw squad leader/coach.
 
 
 ## Werkwijze
 
-![Opdrachtomschrijving](opdrachtomschrijving.png)
 
-*Hoe pak je dit aan, in welke fases van de DLC*
+Deze opdracht gaat over deze fases van de DLC: [analyseren](#analyseren) en [ontwerpen](#ontwerpen)
 
-Deze opdracht gaat over deze fases van de DLC: [analyseren](#analyseren), [ontwerpen](#ontwerpen)
 ### Analyseren
 Uitleg..
 
