@@ -67,9 +67,9 @@ Zorg er voor dat je fases en/of tijd aangeeft.
 Dus je denkt zowel over de korte termijn als over de langere termijn na (waar sta ik na semester 1 en waar na semester 2).
 
 
-> 3. Uitwerken
+> 3. Meerdere ideeën schetsen (divergeren)
 
-Als je een idee hebt van waar ongeveer wat moet komen te staan, pak je een aantal nieuwe vellen waar je een aantal ideeën voor een praatplaat op tekent.
+Als je een idee hebt van waar ongeveer wat moet komen te staan, pak je een aantal nieuwe vellen waar je een aantal ideeën (minstens drie) voor een praatplaat op tekent.
 Je gaat nu van een schematische vorm naar een metafoor. Bekijk eens deze metafoorkaarten om op ideeën te komen: hoe zie je de afgelopen periode en hoe kijk je naar de toekomst?
 
 
@@ -83,6 +83,13 @@ Je gaat nu van een schematische vorm naar een metafoor. Bekijk eens deze metafoo
 
 
 Bedenk dat je praatplaat geen vastgelegd plan is waar je je aan moet houden, het is een momentopname en zal gedurende het jaar steeds veranderen maar kan je helpen bij het richting geven en keuzes maken!
+
+> 4. Een idee uitwerken (convergeren)
+Als je een aantal idee-schetsen hebt gemaakt, kies je er een uit -dit kan je eventueel ook met een klasgenoot samen doen-en werk je deze schets verder uit tot een tekening waarin je het volgende toepast:
+-Een titel
+-Visuele hierarchie
+-Kleur
+-Hierarchie in typografie
 
 
 #### Materiaal 
