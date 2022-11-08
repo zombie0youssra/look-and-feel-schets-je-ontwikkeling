@@ -8,7 +8,7 @@ Maak een praatplaat waarin je jouw ontwikkeling van de afgelopen sprints en waar
 Deze deeltaak hoort bij sprint 4 Look and feel. 
 Dit is een deeltaak die je individueel uitvoert.
 
-In de workshop [[Schets je ontwikkeling 2](link)] gaan we gezamenlijk alle stappen langs en worden er visual thinking tips gegeven!
+In de workshop [Schets je ontwikkeling 2](link)] gaan we gezamenlijk alle stappen langs en worden er visual thinking tips gegeven!
 
 
 ## Doel van deze opdracht
