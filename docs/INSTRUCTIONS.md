@@ -11,8 +11,6 @@ Dit is een deeltaak die je individueel uitvoert.
 In de workshop [[Schets je ontwikkeling 2](link)] gaan we gezamenlijk alle stappen langs en worden er visual thinking tips gegeven!
 
 
-
-
 ## Doel van deze opdracht
 
 Je reflecteert op de afgelopen periode en brengt in kaart wat er goed gaat en wat er beter kan.
