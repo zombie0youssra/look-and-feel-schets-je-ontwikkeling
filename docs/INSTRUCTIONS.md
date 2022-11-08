@@ -23,7 +23,7 @@ Je gebruikt de praatplaat als uitgangspunt voor een individueel gesprek met jouw
 
 Deze opdracht gaat over deze fases van de DLC: [analyseren](#analyseren) en [ontwerpen](#ontwerpen)
 
-### Analyeren
+### Analyseren
 
 #### Aanpak
 
