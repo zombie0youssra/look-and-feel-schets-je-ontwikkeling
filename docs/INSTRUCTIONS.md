@@ -23,7 +23,7 @@ Je gebruikt de praatplaat als uitgangspunt voor een individueel gesprek met jouw
 
 Deze opdracht gaat over deze fases van de DLC: [analyseren](#analyseren) en [ontwerpen](#ontwerpen)
 
-### Ontwerpen
+### Analyeren
 
 #### Aanpak
 
@@ -47,9 +47,17 @@ Waar liggen kansen, waar heb je zin in?
 
 Schrijf en/of teken deze uitgangspunten op post-its.
 
+
+
+### Ontwerpen
+
+#### Aanpak
+
+
 > 2. Structureren
 
-Teken eerst een schematische structuur.
+Pak een A3 vel en teken eerst een schematische structuur.
+
 Kijk vervolgens wat je hebt opgeschreven en hoe je dat gaat verdelen over je structuur. 
 
 Als je bijvoorbeeld begint met je einddoel, kan het zijn dat je al gedachten hebt over hoe je dat wil bereiken. Dit kun je ook op je praatplaat zetten.
