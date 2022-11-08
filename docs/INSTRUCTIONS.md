@@ -108,7 +108,7 @@ Lerend vermogen: Toont beginnend inzicht in eigen capaciteiten en beperkingen en
 
 Deze opdracht is done als:
 
-- [Er een aantal ideeën zijn bedacht voor de vorm van jouw praatplaat]
-- [Een van de praatplaten is uitgewerkt in de vorm van een metafoor]
-- [Er duidelijk aandacht is besteed aan de tekening, lees: geen koffievlekken, gevouwen hoeken etc.]
-- [De praatplaat genoeg informatie bevat om een gesprek te voeren over jouw ontwikkeling]
+- Er minstens drie ideeën zijn bedacht voor de vorm van jouw praatplaat
+- Een van de praatplaten is uitgewerkt in de vorm van een metafoor
+- Er duidelijk aandacht is besteed aan de tekening, lees: geen koffievlekken, gevouwen hoeken etc.
+- De praatplaat genoeg informatie bevat om een gesprek te voeren over jouw ontwikkeling.
