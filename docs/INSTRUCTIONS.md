@@ -59,7 +59,7 @@ Zorg er voor dat je fases en/of tijd aangeeft.
 Dus je denkt zowel over de korte termijn als over de langere termijn na (waar sta ik na semester 1 en waar na semester 2).
 
 
-> Stap 3. Uitwerken
+> 3. Uitwerken
 
 Als je een idee hebt van waar ongeveer wat moet komen te staan, pak je een nieuw vel waar je je uiteindelijke praatplaat op tekent.
 Je gaat nu van een schematische vorm houden naar een metafoor. 
