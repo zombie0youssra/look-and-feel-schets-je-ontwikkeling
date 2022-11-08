@@ -1,17 +1,16 @@
 
-# [Sprintnaam] - [Deeltaak-naam]
+# [Look and feel] - [Schets je ontwikkeling 2]
 
 [Beschrijving van de deeltaak]
 
 ## Context
 
-Deze deeltaak hoort bij sprint # [Sprintnaam]. 
-Dit is een deeltaak die je [individueel / in een team] uitvoert.
+Deze deeltaak hoort bij sprint 4 [Look and feel]. 
+Dit is een deeltaak die je [individueel] uitvoert.
 
-In de workshop [[Workshopnaam](link)] wordt behandeld ... 
+In de workshop [[Schets je ontwikkeling 2](link)] wordt behandeld ... 
 
-Deze deeltaak hoort bij de leertaak:
-- [[leertaak](link)]
+
 
 
 ## Doel van deze opdracht
