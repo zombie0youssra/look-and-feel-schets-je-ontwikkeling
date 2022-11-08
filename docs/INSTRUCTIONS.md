@@ -1,7 +1,7 @@
 
 # Look and feel - Schets je ontwikkeling, deel 2
 
-[Beschrijving van de deeltaak]
+Maak een praatplaat waarin je jouw ontwikkeling en waar je naartoe wil, laat zien.
 
 ## Context
 
