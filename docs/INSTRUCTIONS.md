@@ -69,8 +69,10 @@ Dus je denkt zowel over de korte termijn als over de langere termijn na (waar st
 
 > 3. Uitwerken
 
-Als je een idee hebt van waar ongeveer wat moet komen te staan, pak je een nieuw vel waar je je uiteindelijke praatplaat op tekent.
-Je gaat nu van een schematische vorm houden naar een metafoor. 
+Als je een idee hebt van waar ongeveer wat moet komen te staan, pak je een aantal nieuwe vellen waar je een aantal ideeën voor een praatplaat op tekent.
+Je gaat nu van een schematische vorm houden naar een metafoor. Bekijk eens deze metafoorkaarten om op ideeën te komen: hoe zie je de afgelopen periode en hoe kijk je naar de toekomst?
+
+
 
 Bedenk dat je praatplaat geen vastgelegd plan is waar je je aan moet houden, het is een momentopname en zal gedurende het jaar steeds veranderen maar kan je helpen bij het richting geven en keuzes maken!
 
@@ -80,19 +82,6 @@ Bedenk dat je praatplaat geen vastgelegd plan is waar je je aan moet houden, het
 - [bron]
 - [bron]
 
-
-### Bouwen
-Uitleg..
-
-#### Aanpak
-
-1. ...
-2. ...
-
-#### Materiaal 
-
-- [bron]
-- [bron]
 
 
 
