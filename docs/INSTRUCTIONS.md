@@ -85,17 +85,13 @@ Je gaat nu van een schematische vorm naar een metafoor. Bekijk eens deze metafoo
 Bedenk dat je praatplaat geen vastgelegd plan is waar je je aan moet houden, het is een momentopname en zal gedurende het jaar steeds veranderen maar kan je helpen bij het richting geven en keuzes maken!
 
 > 4. Een idee uitwerken (convergeren)
-Als je een aantal idee-schetsen hebt gemaakt, kies je er een uit -dit kan je eventueel ook met een klasgenoot samen doen-en werk je deze schets verder uit tot een tekening waarin je het volgende toepast:
+
+Als je een aantal idee-schetsen hebt gemaakt, kies je er een uit -dit kan je eventueel ook in overleg met een klasgenoot doen- en werk je deze schets verder uit tot een tekening waarin je het volgende toepast:
+
 -Een titel
 -Visuele hierarchie
 -Kleur
 -Hierarchie in typografie
-
-
-#### Materiaal 
-
-- [bron]
-- [bron]
 
 
 
