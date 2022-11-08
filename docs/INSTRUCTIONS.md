@@ -1,11 +1,11 @@
 
-# [Look and feel] - [Schets je ontwikkeling 2]
+# Look and feel - Schets je ontwikkeling 2
 
 [Beschrijving van de deeltaak]
 
 ## Context
 
-Deze deeltaak hoort bij sprint 4 [Look and feel]. 
+Deze deeltaak hoort bij sprint 4: Look and feel. 
 Dit is een deeltaak die je [individueel] uitvoert.
 
 In de workshop [[Schets je ontwikkeling 2](link)] wordt behandeld ... 
