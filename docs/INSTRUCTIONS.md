@@ -1,5 +1,5 @@
 
-# Look and feel - Schets je ontwikkeling 2
+# Look and feel - Schets je ontwikkeling, deel 2
 
 [Beschrijving van de deeltaak]
 
