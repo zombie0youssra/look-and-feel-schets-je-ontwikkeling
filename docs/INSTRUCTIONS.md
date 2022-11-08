@@ -28,7 +28,7 @@ Uitleg..
 
 #### Aanpak
 
-1.Verzamelen van informatie voor jouw praatplaat.
+> 1.Verzamelen van informatie voor jouw praatplaat.
 
 Wat kan er allemaal in jouw praatplaat komen te staan?
 
@@ -48,7 +48,7 @@ Waar liggen kansen, waar heb je zin in?
 
 Schrijf en/of teken deze uitgangspunten op post-its.
 
-2. Structureren
+> 2. Structureren
 
 Teken eerst een schematische structuur.
 Kijk vervolgens wat je hebt opgeschreven en hoe je dat gaat verdelen over je structuur. 
