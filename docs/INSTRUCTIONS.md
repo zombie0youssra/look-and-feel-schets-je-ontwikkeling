@@ -1,14 +1,14 @@
 
 # Look and feel - Schets je ontwikkeling, deel 2
 
-Maak een praatplaat waarin je jouw ontwikkeling en waar je naartoe wil, laat zien.
+Maak een praatplaat waarin je jouw ontwikkeling van de afgelopen sprints en waar je naartoe wil in de komende sprints, laat zien.
 
 ## Context
 
 Deze deeltaak hoort bij sprint 4 Look and feel. 
 Dit is een deeltaak die je individueel uitvoert.
 
-In de workshop [[Schets je ontwikkeling 2](link)] wordt behandeld ... 
+In de workshop [[Schets je ontwikkeling 2](link)] gaan we gezamenlijk alle stappen langs en worden er visual thinking tips gegeven!
 
 
 
