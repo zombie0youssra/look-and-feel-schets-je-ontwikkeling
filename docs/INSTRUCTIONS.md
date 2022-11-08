@@ -32,7 +32,6 @@ Uitleg..
 
 1.Verzamelen van informatie voor jouw praatplaat.
 
-
 Wat kan er allemaal in jouw praatplaat komen te staan?
 
 Wat ging er goed?
@@ -51,15 +50,12 @@ Waar liggen kansen, waar heb je zin in?
 
 Schrijf en/of teken deze uitgangspunten op post-its.
 
-
 2. Structureren
 
 Teken eerst een schematische structuur.
 Kijk vervolgens wat je hebt opgeschreven en hoe je dat gaat verdelen over je structuur. 
 
-Als je bijvoorbeeld begint met je einddoel, kan het zijn dat je al gedachten hebt over hoe je dat wil bereiken.
- 
-Dit kun je ook op je praatplaat zetten.
+Als je bijvoorbeeld begint met je einddoel, kan het zijn dat je al gedachten hebt over hoe je dat wil bereiken. Dit kun je ook op je praatplaat zetten.
 
 Zorg er voor dat je fases en/of tijd aangeeft.
  
