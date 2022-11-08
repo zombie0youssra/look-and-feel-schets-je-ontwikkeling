@@ -23,8 +23,7 @@ Je gebruikt de praatplaat als uitgangspunt voor een individueel gesprek met jouw
 
 Deze opdracht gaat over deze fases van de DLC: [analyseren](#analyseren) en [ontwerpen](#ontwerpen)
 
-### Analyseren
-Uitleg..
+### Ontwerpen
 
 #### Aanpak
 
@@ -59,6 +58,7 @@ Zorg er voor dat je fases en/of tijd aangeeft.
  
 Dus je denkt zowel over de korte termijn als over de langere termijn na (waar sta ik na semester 1 en waar na semester 2).
 
+
 > Stap 3. Uitwerken
 
 Als je een idee hebt van waar ongeveer wat moet komen te staan, pak je een nieuw vel waar je je uiteindelijke praatplaat op tekent.
@@ -66,18 +66,6 @@ Je gaat nu van een schematische vorm houden naar een metafoor.
 
 Bedenk dat je praatplaat geen vastgelegd plan is waar je je aan moet houden, het is een momentopname en zal gedurende het jaar steeds veranderen maar kan je helpen bij het richting geven en keuzes maken!
 
-
-
-
-
-
-### Ontwerpen
-Uitleg..
-
-#### Aanpak
-
-1. ...
-2. ...
 
 #### Materiaal 
 
