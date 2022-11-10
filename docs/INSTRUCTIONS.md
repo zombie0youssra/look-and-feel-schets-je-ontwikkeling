@@ -47,6 +47,9 @@ Waar liggen kansen, waar heb je zin in?
 
 Schrijf en/of teken deze uitgangspunten op post-its.
 
+![Picture 1](https://user-images.githubusercontent.com/55133339/201150049-c5a5349f-7775-425f-97f6-164e830fdce3.jpg)
+
+
 
 
 ### Ontwerpen
@@ -65,6 +68,9 @@ Als je bijvoorbeeld begint met je einddoel, kan het zijn dat je al gedachten heb
 Zorg er voor dat je fases en/of tijd aangeeft.
  
 Dus je denkt zowel over de korte termijn als over de langere termijn na (waar sta ik na semester 1 en waar na semester 2).
+
+![Picture 2](https://user-images.githubusercontent.com/55133339/201150188-2f04a5bf-32d6-4cde-85f3-d9dcd6d3bc93.jpg)
+
 
 
 > 3. Meerdere ideeën schetsen (divergeren)
