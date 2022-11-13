@@ -71,8 +71,13 @@ Dus je denkt zowel over de korte termijn als over de langere termijn na (waar st
 Als je een idee hebt van waar ongeveer wat moet komen te staan, pak je een aantal nieuwe vellen waar je een aantal ideeën (minstens drie) voor een praatplaat op tekent.
 Je gaat nu van een schematische vorm naar een metafoor. Bekijk eens deze metafoorkaarten om op ideeën te komen: hoe zie je de afgelopen periode en hoe kijk je naar de toekomst?
 
+<img src="https://user-images.githubusercontent.com/55133339/200644418-d5565f82-81bf-4a51-a242-9740d09f7b8f.jpg" width=50%>
+<img src="https://user-images.githubusercontent.com/55133339/200644423-e76cfb37-a7a3-44e5-9909-48583bc024a0.jpg" width=50%>
 
-![Verkeer](https://user-images.githubusercontent.com/55133339/200644418-d5565f82-81bf-4a51-a242-9740d09f7b8f.jpg width=250x)
+
+
+
+![Verkeer](https://user-images.githubusercontent.com/55133339/200644418-d5565f82-81bf-4a51-a242-9740d09f7b8f.jpg)
 ![Oorlog](https://user-images.githubusercontent.com/55133339/200644423-e76cfb37-a7a3-44e5-9909-48583bc024a0.jpg)
 ![Machines](https://user-images.githubusercontent.com/55133339/200644426-7360eeb0-5b83-4b30-becf-78b7991c3a86.jpg)
 ![Reizen](https://user-images.githubusercontent.com/55133339/200644427-aa4e9afe-7d50-4d25-b19b-d960791d0201.jpg)
