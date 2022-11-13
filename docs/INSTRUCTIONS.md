@@ -14,20 +14,20 @@ In de workshop _Schets je ontwikkeling 2_ gaan we gezamenlijk alle stappen langs
 ## Doel van deze opdracht
 
 Je reflecteert op de afgelopen periode en brengt in kaart wat er goed gaat en wat er beter kan.
-Je maakt een tekening (praatplaat) in de vorm van een metafoor die laat zien hoe je zelf naar deze ontwikkeling kijkt.
-Je gebruikt de praatplaat als uitgangspunt voor een individueel gesprek met jouw squad leader/coach.
-
 
 ## Werkwijze
 
+Je maakt een tekening (praatplaat) in de vorm van een metafoor die laat zien hoe je zelf naar deze ontwikkeling kijkt.
+Je gebruikt de praatplaat als uitgangspunt voor een individueel gesprek met jouw squad leader/coach.
 
-Deze opdracht gaat over deze fases van de DLC: [analyseren](#analyseren) en [ontwerpen](#ontwerpen)
+### Aanpak
 
-### Analyseren
+1. Verzamelen van informatie voor jouw praatplaat
+2. Structureren
+3. Meerdere ideeën schetsen (divergeren)
+4. Een idee uitwerken (convergeren)
 
-#### Aanpak
-
-> 1. Verzamelen van informatie voor jouw praatplaat.
+### 1. Verzamelen van informatie voor jouw praatplaat
 
 Wat kan er allemaal in jouw praatplaat komen te staan?
 
@@ -50,14 +50,7 @@ Schrijf en/of teken deze uitgangspunten op post-its.
 ![Picture 1](https://user-images.githubusercontent.com/55133339/201150049-c5a5349f-7775-425f-97f6-164e830fdce3.jpg)
 
 
-
-
-### Ontwerpen
-
-#### Aanpak
-
-
-> 2. Structureren
+### 2. Structureren
 
 Pak een A3 vel en teken eerst een schematische structuur.
 
@@ -73,7 +66,7 @@ Dus je denkt zowel over de korte termijn als over de langere termijn na (waar st
 
 
 
-> 3. Meerdere ideeën schetsen (divergeren)
+### 3. Meerdere ideeën schetsen (divergeren)
 
 Als je een idee hebt van waar ongeveer wat moet komen te staan, pak je een aantal nieuwe vellen waar je een aantal ideeën (minstens drie) voor een praatplaat op tekent.
 Je gaat nu van een schematische vorm naar een metafoor. Bekijk eens deze metafoorkaarten om op ideeën te komen: hoe zie je de afgelopen periode en hoe kijk je naar de toekomst?
@@ -90,7 +83,7 @@ Je gaat nu van een schematische vorm naar een metafoor. Bekijk eens deze metafoo
 
 Bedenk dat je praatplaat geen vastgelegd plan is waar je je aan moet houden, het is een momentopname en zal gedurende het jaar steeds veranderen maar kan je helpen bij het richting geven en keuzes maken!
 
-> 4. Een idee uitwerken (convergeren)
+### 4. Een idee uitwerken (convergeren)
 
 Als je een aantal idee-schetsen hebt gemaakt, kies je er een uit -dit kan je eventueel ook in overleg met een klasgenoot doen- en werk je deze schets verder uit tot een tekening waarin je het volgende toepast:
 
@@ -108,7 +101,7 @@ Als je een aantal idee-schetsen hebt gemaakt, kies je er een uit -dit kan je eve
 
 
 Deze deeltaak hoort bij het gedragscriterium:  
-Lerend vermogen: Toont beginnend inzicht in eigen capaciteiten en beperkingen en kan deze benoemen
+Lerend vermogen: Student toont beginnend inzicht in eigen capaciteiten en beperkingen en kan deze benoemen
 
 Deze opdracht is done als:
 
