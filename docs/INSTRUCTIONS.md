@@ -27,7 +27,7 @@ Deze opdracht gaat over deze fases van de DLC: [analyseren](#analyseren) en [ont
 
 #### Aanpak
 
-> 1.Verzamelen van informatie voor jouw praatplaat.
+> 1. Verzamelen van informatie voor jouw praatplaat.
 
 Wat kan er allemaal in jouw praatplaat komen te staan?
 
