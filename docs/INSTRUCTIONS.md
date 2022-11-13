@@ -71,19 +71,18 @@ Dus je denkt zowel over de korte termijn als over de langere termijn na (waar st
 Als je een idee hebt van waar ongeveer wat moet komen te staan, pak je een aantal nieuwe vellen waar je een aantal ideeën (minstens drie) voor een praatplaat op tekent.
 Je gaat nu van een schematische vorm naar een metafoor. Bekijk eens deze metafoorkaarten om op ideeën te komen: hoe zie je de afgelopen periode en hoe kijk je naar de toekomst?
 
-<img src="https://user-images.githubusercontent.com/55133339/200644418-d5565f82-81bf-4a51-a242-9740d09f7b8f.jpg" width=50%>
-<img src="https://user-images.githubusercontent.com/55133339/200644423-e76cfb37-a7a3-44e5-9909-48583bc024a0.jpg" width=50%>
+<img src="https://user-images.githubusercontent.com/55133339/200644418-d5565f82-81bf-4a51-a242-9740d09f7b8f.jpg" width=40%>
+<img src="https://user-images.githubusercontent.com/55133339/200644423-e76cfb37-a7a3-44e5-9909-48583bc024a0.jpg" width=40%>
+
+<img src="https://user-images.githubusercontent.com/55133339/200644426-7360eeb0-5b83-4b30-becf-78b7991c3a86.jpg" width=40%>
+<img src="https://user-images.githubusercontent.com/55133339/200644427-aa4e9afe-7d50-4d25-b19b-d960791d0201.jpg" width=40%>
+
+<img src="https://user-images.githubusercontent.com/55133339/200644436-c1af45a0-a2d2-439e-990b-13c2186c2940.jpg" width=40%>
+<img src="https://user-images.githubusercontent.com/55133339/200644442-83c4311d-fd56-44d5-b2cb-7eea89ab311a.jpg" width=40%>
+<img src="https://user-images.githubusercontent.com/55133339/200650123-ce8e0927-831f-4bef-a00b-92605576c556.jpg" width=40%>
 
 
 
-
-![Verkeer](https://user-images.githubusercontent.com/55133339/200644418-d5565f82-81bf-4a51-a242-9740d09f7b8f.jpg)
-![Oorlog](https://user-images.githubusercontent.com/55133339/200644423-e76cfb37-a7a3-44e5-9909-48583bc024a0.jpg)
-![Machines](https://user-images.githubusercontent.com/55133339/200644426-7360eeb0-5b83-4b30-becf-78b7991c3a86.jpg)
-![Reizen](https://user-images.githubusercontent.com/55133339/200644427-aa4e9afe-7d50-4d25-b19b-d960791d0201.jpg)
-![Ballon-ruimtevaart](https://user-images.githubusercontent.com/55133339/200644436-c1af45a0-a2d2-439e-990b-13c2186c2940.jpg)
-![Sport](https://user-images.githubusercontent.com/55133339/200644442-83c4311d-fd56-44d5-b2cb-7eea89ab311a.jpg)
-![Eten+koken](https://user-images.githubusercontent.com/55133339/200650123-ce8e0927-831f-4bef-a00b-92605576c556.jpg)
 
 
 Bedenk dat je praatplaat geen vastgelegd plan is waar je je aan moet houden, het is een momentopname en zal gedurende het jaar steeds veranderen maar kan je helpen bij het richting geven en keuzes maken!
