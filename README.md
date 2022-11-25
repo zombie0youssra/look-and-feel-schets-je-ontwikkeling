@@ -1,5 +1,6 @@
 
-# Schets je ontwikkeling
+# Schets je ontwikkeling🚀
+![image](https://user-images.githubusercontent.com/112857270/203966744-61f1f405-0036-4d90-9207-a896d8696c0c.png)
 
 
 ## Licentie
